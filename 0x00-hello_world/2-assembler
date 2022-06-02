@@ -1,2 +1,2 @@
-#!/bib/bash
-gcc .s $CFILE
+#!/bin/bash
+gcc .s $CFILE 
