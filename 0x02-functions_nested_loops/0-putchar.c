@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "betty.h"
 /**
  * main - Entry point
  *
